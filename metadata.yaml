@@ -1,0 +1,32 @@
+_repo: Darwiniana-Essays-Volume-02_6919
+creator:
+  author:
+    agent_name: Huxley, Thomas Henry
+    alias: Huxley, T. H. (Thomas Henry)
+    birthdate: 1825
+    deathdate: 1895
+    gutenberg_agent_id: '595'
+    url: http://www.gutenberg.org/2009/agents/595
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Henry_Huxley
+description: ''
+gutenberg_bookshelf: Biology
+gutenberg_issued: '2004-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6919'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Darwin, Charles, 1809-1882'
+- !lcsh 'Evolution (Biology)'
+- !lcc 'QH'
+tableOfContents: The Darwinian hypothesis (1859) -- The Origin of species (1860) --
+  Criticisms on "The origin of species" (1864) -- The genealogy of animals (1869)
+  -- Mr. Darwin's critics (1871) -- Evolution in biology (1878) -- The coming of age
+  of "The origin of species" (1880) -- Charles Darwin (1882) -- The Darwin memorial
+  (1885) -- Obituary (1888) -- Six lectures to working men "On our knowledge of the
+  causes of the phenomena of organic nature" (1863).
+title: 'Darwiniana : Essays — Volume 02'
+url: http://www.gutenberg.org/ebooks/6919
